@@ -8,7 +8,7 @@ This project aims to acquire and clean the data from the dataset collected throu
 ## Dataset Basic Information
 Name: Human Activity Recognition Using Smartphones Dataset  
 Version: 1.0  
-Source: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+Source: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
 Contributors: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto
 
 ## Dataset Description
