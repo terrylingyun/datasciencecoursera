@@ -72,3 +72,6 @@ newfinaldat <- arrange(newfinaldat, Subject)
 # Write the final tidy data into files
 fwrite(finaldat, file = "TidyData.txt", quote = FALSE)
 fwrite(newfinaldat, file = "TidyData.csv")
+
+# Required for submission
+write.table(newfinaldat, file = "TidyDataUpload.txt", row.name=FALSE)
