@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-Author: Terry Ling
+Author: Terry Ling  
 Original Data: [UCI Machine Learning Repository - Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Content
