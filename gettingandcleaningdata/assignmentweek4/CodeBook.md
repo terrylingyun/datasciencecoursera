@@ -39,4 +39,4 @@ std(): Standard deviation
 ## Dataset Cleaning Results
 In the repository, there are mainly two different tidy datasets:  
 * Dataset with all the observations but only variables containing mean and standard deviation (Step 4) `TidyData.txt`
-* Dataset with the average of each activity for each subject (Step 5) `TidyData.csv`
+* Dataset with the average of each activity for each subject (Step 5) `TidyData.csv` \& `TidyDataUpload.txt`
